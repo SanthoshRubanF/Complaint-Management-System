@@ -1,4 +1,4 @@
-# Complaint-Management-System
+# Complaint Management System
 
 ## Imports and Setup:
 •	It imports the necessary modules from the Tkinter library to create a graphical user interface (GUI).
